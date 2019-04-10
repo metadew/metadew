@@ -15,5 +15,5 @@ We are passionate about automation. Our goal is to promote and create metadata d
 
 |framework|Description|
 |---|---|
-|[IESI](https://metadew.github.io/iesi-doc/)|Automation framework for end-to-end delivery and testing|
+|[IESI](https://metadew.github.io/iesi/)|Automation framework for end-to-end delivery and testing|
  
