@@ -7,7 +7,7 @@ Preparation for future is needed. As architectures and platforms become more div
 To oversee cost and complexity we believe that investment in metadata foundations is crucial.
 
 Metadata – otherwise data describing the definition, context, classification, etc. of data itself – is the key to allow applications to talk to each other. 
-It is no longer just a by-product, it is the language of automation. Applications become more intelligent by integrating, interpretating and augmenting this metadata. 
+It is no longer just a by-product, it is the language of automation. Applications become more intelligent by integrating, interpreting and augmenting this metadata. 
 
 # Frameworks
 
