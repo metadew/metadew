@@ -15,5 +15,6 @@ We are passionate about automation. Our goal is to promote and create metadata d
 
 |framework|Description|
 |---|---|
-|[IESI](https://metadew.github.io/iesi/)|Automation framework for end-to-end delivery and testing|
-|[Marker](https://metadew.github.io/marker/)|Data model for centralizing metadata|
+|[flap](https://metadew.github.io/flap/)|Framework for flexible lab provisioning|
+|[iesi](https://metadew.github.io/iesi/)|Automation framework for end-to-end delivery and testing|
+|[marker](https://metadew.github.io/marker/)|Data model for centralizing metadata|
